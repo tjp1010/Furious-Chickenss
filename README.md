@@ -9,6 +9,6 @@ Here is the tutorial I followed to make this:
 https://www.youtube.com/watch?v=OR0e-1UBEOU
 
 
-### Further developement?###
+### Further developement?
 Additional mechanics and further developement may be something I will be doing in the future
 for now it is just a demo to show what I learned and implemented within the tutorial previously mentioned
